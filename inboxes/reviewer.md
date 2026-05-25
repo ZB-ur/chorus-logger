@@ -70,3 +70,8 @@ chorus|8c8fe51008ffa219758ed496fcef263d62e20de5|lessons/chorus/8c8fe51.md
 dev-console|41312c3d09f21535febeed4b22755ffc12b7e995|lessons/dev-console/41312c3.md
 dev-console|a84b8a14c8a1ddd8874066327cab5e6a5dcb3002|lessons/dev-console/a84b8a1.md
 dev-console|b887926038ed84a8b85c81933d0b1e58b6de24a1|lessons/dev-console/b887926.md
+dev-console|ae73588dc6ceb3b9ac1dac452574620ec41c4e0a|lessons/dev-console/ae73588.md
+dev-console|16b678c526771ad2063d6b8af8cefe78cdd07df7|lessons/dev-console/16b678c.md
+dev-console|8ec5eb81fcfbada8bc5f64fbf2c8cf972aff2f3b|lessons/dev-console/8ec5eb8.md
+dev-console|06e80b7ebcae8d6f895d61819f76f22f58967e35|lessons/dev-console/06e80b7.md
+dev-console|3296f1c77a15cf65e75a5d4d520896e2caa56774|lessons/dev-console/3296f1c.md

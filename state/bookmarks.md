@@ -8,7 +8,7 @@ successful processing batch.
 | repo | last-processed sha | last-processed date | total processed |
 |------|--------------------|--------------------|-----------------|
 | chorus | 8c8fe51008ffa219758ed496fcef263d62e20de5 | 2026-05-25 | 57 |
-| dev-console | b887926038ed84a8b85c81933d0b1e58b6de24a1 | 2026-05-18 | 3 |
+| dev-console | 3296f1c77a15cf65e75a5d4d520896e2caa56774 | 2026-05-18 | 8 |
 | bonfire | (pending) | - | 0 |
 | mosaicat | (pending) | - | 0 |
 
