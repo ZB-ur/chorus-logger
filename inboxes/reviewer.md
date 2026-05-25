@@ -85,3 +85,8 @@ dev-console|f787827a11a1a251a68f0e32b0f4526a3b4878e1|lessons/dev-console/f787827
 dev-console|1f25e2b986314a181e917deed4b963086b380e27|lessons/dev-console/1f25e2b.md
 dev-console|7d095388f67a980025e461dfbb95d7ed1f3185a8|lessons/dev-console/7d09538.md
 dev-console|abdf0331cb6f639aaf2e03a83cefad357221d81e|lessons/dev-console/abdf033.md
+dev-console|86b9000484bd3fbc8e5f04c2ebc71c04a9f03ffe|lessons/dev-console/86b9000.md
+dev-console|a6b1bbd69d99a862d04c5ab0e2876b2738b47bb0|lessons/dev-console/a6b1bbd.md
+bonfire|ce553842ba92942e53bb68b16719572794f1288c|lessons/bonfire/ce55384.md
+bonfire|7b7c3b491abb24086981039363d49fc420c12e64|lessons/bonfire/7b7c3b4.md
+bonfire|ed89e3b798e750d678208ce7ec340623c6d14c85|lessons/bonfire/ed89e3b.md
