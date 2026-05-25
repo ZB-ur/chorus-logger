@@ -4,8 +4,8 @@ repo: bonfire
 date: 2026-04-10
 subject: "feat: implement state machine with step transitions, reentry, run management"
 extracted_at: 2026-05-25T21:11:04Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T21:11:30Z
 verdict_reason: null
 ---
 
