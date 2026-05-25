@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-20
 subject: "feat: bin/chorus-{start,stop}.sh"
 extracted_at: 2026-05-25T15:38:30Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T15:40:54Z
 verdict_reason: null
 ---
 
