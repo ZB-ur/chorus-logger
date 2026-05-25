@@ -80,3 +80,8 @@ dev-console|446bcd0a4c83a282ab7989b978289e013315f00e|lessons/dev-console/446bcd0
 dev-console|f17ae683c9858751433d2e19fff7b266e705c59e|lessons/dev-console/f17ae68.md
 dev-console|db8ed52ebee2e67ffe7ebff867984747017bc3d6|lessons/dev-console/db8ed52.md
 dev-console|783354bd8b74ed6fa0fe6849bf9fea2cec7f1e5d|lessons/dev-console/783354b.md
+dev-console|9e46e5b9d1339d2f961f3764106f2e0f23e5dcb1|lessons/dev-console/9e46e5b.md
+dev-console|f787827a11a1a251a68f0e32b0f4526a3b4878e1|lessons/dev-console/f787827.md
+dev-console|1f25e2b986314a181e917deed4b963086b380e27|lessons/dev-console/1f25e2b.md
+dev-console|7d095388f67a980025e461dfbb95d7ed1f3185a8|lessons/dev-console/7d09538.md
+dev-console|abdf0331cb6f639aaf2e03a83cefad357221d81e|lessons/dev-console/abdf033.md
