@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-25
 subject: "docs(runs): v0.6 build evidence final HEAD sha post-v0.2-build tag (v0.6 scope)"
 extracted_at: 2026-05-25T18:14:17Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T18:14:30Z
 verdict_reason: null
 ---
 
