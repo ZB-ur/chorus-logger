@@ -105,3 +105,8 @@ bonfire|b86066de6a394545c20dcd34c683a3ff080f5c6f|lessons/bonfire/b86066d.md
 bonfire|01e1600568a2a8eb8ed9373db86449349f6c5250|lessons/bonfire/01e1600.md
 bonfire|dff1b20803bd4ad7a7a0a6fe1cd5806c2f8f97aa|lessons/bonfire/dff1b20.md
 bonfire|34f1e3c03e4b61f37e43b64a1fa830f0edd7ceaf|lessons/bonfire/34f1e3c.md
+bonfire|ab0fa884adac15f76b9155022cc89b19a660f5f1|lessons/bonfire/ab0fa88.md
+bonfire|6dbed34fd83b007193fb1c9bc8c8575fac1e473f|lessons/bonfire/6dbed34.md
+bonfire|69c4e3effbff9474df4d25ce6b657d0597a29719|lessons/bonfire/69c4e3e.md
+bonfire|fe88ff039d45d7ee5d166fec9de066c75cd204f5|lessons/bonfire/fe88ff0.md
+bonfire|8f57a8bc0da3c23bc7a26717f121987327c2b609|lessons/bonfire/8f57a8b.md
