@@ -25,3 +25,8 @@ chorus|acedff4581422c77bc3e2d2609befef5c56b467a|lessons/chorus/acedff4.md
 chorus|0e8678795a739996c522c1cc4b593cc2699457f1|lessons/chorus/0e86787.md
 chorus|a93ef3e3c62f288a019f4ea1bf91c285a8e127a7|lessons/chorus/a93ef3e.md
 chorus|d245c64cadf67a5d6670d03941933b78afd2e81e|lessons/chorus/d245c64.md
+chorus|4fe2e270aa9e3e0f6c6adf6ad53d4671bbe69beb|lessons/chorus/4fe2e27.md
+chorus|c7c4870a3f297b9f100d3d491a3c8b4780c11308|lessons/chorus/c7c4870.md
+chorus|32f16abee28ea38ca8fb67cad76cf012447b63f6|lessons/chorus/32f16ab.md
+chorus|e9407b1d705f632f29390c26e4e0f58cd1552d7c|lessons/chorus/e9407b1.md
+chorus|8034565790f85919d6b50be003735c68db3cb1dc|lessons/chorus/8034565.md
