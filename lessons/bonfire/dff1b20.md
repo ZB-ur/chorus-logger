@@ -4,8 +4,8 @@ repo: bonfire
 date: 2026-04-10
 subject: "test: add freeze maturity gates, annotate, supersede, discard tests"
 extracted_at: 2026-05-25T20:42:05Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T20:42:30Z
 verdict_reason: null
 ---
 
