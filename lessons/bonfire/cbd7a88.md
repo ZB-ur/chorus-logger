@@ -4,8 +4,8 @@ repo: bonfire
 date: 2026-04-10
 subject: "feat: add CLI entry point with subcommand routing and route command"
 extracted_at: 2026-05-25T20:11:09Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T20:11:30Z
 verdict_reason: null
 ---
 
