@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-25
 subject: "docs(runs): v0.6 build evidence + chorus-self prereq 3/5 closure (v0.6 scope)"
 extracted_at: 2026-05-25T18:11:39Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T18:12:00Z
 verdict_reason: null
 ---
 
