@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-24
 subject: "fix(inject-loop): bump SCHEDULED_TIMEOUT default 30s -> 90s (v0.5 #7 cycle-5c)"
 extracted_at: 2026-05-25T17:10:39Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T17:11:00Z
 verdict_reason: null
 ---
 
