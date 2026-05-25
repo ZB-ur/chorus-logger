@@ -16,7 +16,7 @@ successful processing batch.
 
 | repo | last-audited sha | last-audited date | total audited |
 |------|------------------|--------------------|--------------|
-| chorus | ed1f2a0087c8feb37cb4c0670a416ea0c3a8fe32 | 2026-05-26 | 25 |
+| chorus | bd576efdf610297be55b106d7eb08515a1ca2421 | 2026-05-26 | 30 |
 | dev-console | (pending) | - | 0 |
 | bonfire | (pending) | - | 0 |
 | mosaicat | (pending) | - | 0 |

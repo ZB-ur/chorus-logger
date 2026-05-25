@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-22
 subject: "test(inject-loop): smoke Case 3 (Stage 1 timeout) + per-case extra-flags support (v0.5 #7)"
 extracted_at: 2026-05-25T16:43:09Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T16:43:30Z
 verdict_reason: null
 ---
 

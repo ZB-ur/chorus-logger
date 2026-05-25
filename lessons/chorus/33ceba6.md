@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-22
 subject: "feat(inject-loop): Stage 2 polling for Scheduled <hex> + Case 4 (v0.5 #7)"
 extracted_at: 2026-05-25T16:43:09Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T16:43:30Z
 verdict_reason: null
 ---
 

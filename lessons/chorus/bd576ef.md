@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-22
 subject: "refactor(chorus-start): delete F3/F6 dead /loop block; wire inject-loop.sh (v0.5 #7)"
 extracted_at: 2026-05-25T16:43:09Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T16:43:30Z
 verdict_reason: null
 ---
 
