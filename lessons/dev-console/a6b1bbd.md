@@ -4,8 +4,8 @@ repo: dev-console
 date: 2026-05-18
 subject: "docs: retrospective §7 cleanup outcome + §8 standing commitments"
 extracted_at: 2026-05-25T19:41:56Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T19:42:10Z
 verdict_reason: null
 ---
 
