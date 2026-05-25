@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-20
 subject: "docs: retrospective F6 + post-tag end-to-end verification"
 extracted_at: 2026-05-25T16:09:45Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T16:11:25Z
 verdict_reason: null
 ---
 
