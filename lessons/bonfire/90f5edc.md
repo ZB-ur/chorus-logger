@@ -4,8 +4,8 @@ repo: bonfire
 date: 2026-04-10
 subject: "docs: add bonfire-d-critique agent definition"
 extracted_at: 2026-05-25T22:07:54Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T22:08:20Z
 verdict_reason: null
 ---
 
