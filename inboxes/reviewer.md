@@ -75,3 +75,8 @@ dev-console|16b678c526771ad2063d6b8af8cefe78cdd07df7|lessons/dev-console/16b678c
 dev-console|8ec5eb81fcfbada8bc5f64fbf2c8cf972aff2f3b|lessons/dev-console/8ec5eb8.md
 dev-console|06e80b7ebcae8d6f895d61819f76f22f58967e35|lessons/dev-console/06e80b7.md
 dev-console|3296f1c77a15cf65e75a5d4d520896e2caa56774|lessons/dev-console/3296f1c.md
+dev-console|fb8f02b6473499368de734a82d9ec3006df7adeb|lessons/dev-console/fb8f02b.md
+dev-console|446bcd0a4c83a282ab7989b978289e013315f00e|lessons/dev-console/446bcd0.md
+dev-console|f17ae683c9858751433d2e19fff7b266e705c59e|lessons/dev-console/f17ae68.md
+dev-console|db8ed52ebee2e67ffe7ebff867984747017bc3d6|lessons/dev-console/db8ed52.md
+dev-console|783354bd8b74ed6fa0fe6849bf9fea2cec7f1e5d|lessons/dev-console/783354b.md
