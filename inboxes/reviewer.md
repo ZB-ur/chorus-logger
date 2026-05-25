@@ -65,3 +65,8 @@ chorus|c11f65a7d43ad03080ae6a367655be4b85babdb0|lessons/chorus/c11f65a.md
 chorus|028c339d1a4ddadc7e62edffefd8228a202cc3a4|lessons/chorus/028c339.md
 chorus|e822423319f36dc4a53e6d824fe065252c691acf|lessons/chorus/e822423.md
 chorus|5dadb0367d58e927e85e65a18e5931336abe4173|lessons/chorus/5dadb03.md
+chorus|0bac9b012c1a89a5fef64b94b5c5f12a13a2a24c|lessons/chorus/0bac9b0.md
+chorus|8c8fe51008ffa219758ed496fcef263d62e20de5|lessons/chorus/8c8fe51.md
+dev-console|41312c3d09f21535febeed4b22755ffc12b7e995|lessons/dev-console/41312c3.md
+dev-console|a84b8a14c8a1ddd8874066327cab5e6a5dcb3002|lessons/dev-console/a84b8a1.md
+dev-console|b887926038ed84a8b85c81933d0b1e58b6de24a1|lessons/dev-console/b887926.md
