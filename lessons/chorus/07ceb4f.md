@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-22
 subject: "fix(smoke-quota-watcher): drop misleading unguarded [PASS] in A2 case (v0.5 #9)"
 extracted_at: 2026-05-25T16:40:38Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T16:42:07Z
 verdict_reason: null
 ---
 
