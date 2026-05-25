@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-24
 subject: "docs(claude): cwd discipline - start claude from repo root, not subdirs"
 extracted_at: 2026-05-25T17:13:16Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T17:13:30Z
 verdict_reason: null
 ---
 

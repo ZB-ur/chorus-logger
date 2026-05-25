@@ -4,8 +4,8 @@ repo: chorus
 date: 2026-05-24
 subject: "docs(runs): v0.5 build evidence - cycle-6 re-audit verdict + new v0.6 candidates"
 extracted_at: 2026-05-25T17:13:16Z
-verdict: pending
-verdict_at: null
+verdict: keep
+verdict_at: 2026-05-25T17:13:30Z
 verdict_reason: null
 ---
 
