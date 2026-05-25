@@ -30,3 +30,8 @@ chorus|c7c4870a3f297b9f100d3d491a3c8b4780c11308|lessons/chorus/c7c4870.md
 chorus|32f16abee28ea38ca8fb67cad76cf012447b63f6|lessons/chorus/32f16ab.md
 chorus|e9407b1d705f632f29390c26e4e0f58cd1552d7c|lessons/chorus/e9407b1.md
 chorus|8034565790f85919d6b50be003735c68db3cb1dc|lessons/chorus/8034565.md
+chorus|742c6c7cc0b648b786a35660dae100e161173444|lessons/chorus/742c6c7.md
+chorus|801173b0d8ba46c2a4c7edbe761bc730c8d0ee39|lessons/chorus/801173b.md
+chorus|07ceb4fd34964f4d2ce2f8afed0a8111b9afa562|lessons/chorus/07ceb4f.md
+chorus|9ee02baff6a8cb6c6e11fac88985fc09d24efdd4|lessons/chorus/9ee02ba.md
+chorus|ed1f2a0087c8feb37cb4c0670a416ea0c3a8fe32|lessons/chorus/ed1f2a0.md
