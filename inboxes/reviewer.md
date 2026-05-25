@@ -90,3 +90,8 @@ dev-console|a6b1bbd69d99a862d04c5ab0e2876b2738b47bb0|lessons/dev-console/a6b1bbd
 bonfire|ce553842ba92942e53bb68b16719572794f1288c|lessons/bonfire/ce55384.md
 bonfire|7b7c3b491abb24086981039363d49fc420c12e64|lessons/bonfire/7b7c3b4.md
 bonfire|ed89e3b798e750d678208ce7ec340623c6d14c85|lessons/bonfire/ed89e3b.md
+bonfire|cf29da7323e18f5895a680139cf608d1e75a2bbf|lessons/bonfire/cf29da7.md
+bonfire|2e3d84efd012d44224d8faccba7aa7e27b0ea9e2|lessons/bonfire/2e3d84e.md
+bonfire|912a2c666031728b5b81a3009973270c519a60ec|lessons/bonfire/912a2c6.md
+bonfire|cbd7a8899933ce7b70795d915798b3342a76d8c9|lessons/bonfire/cbd7a88.md
+bonfire|e8669bbd167e1382c0aca8627dc119a587dfc6b4|lessons/bonfire/e8669bb.md
