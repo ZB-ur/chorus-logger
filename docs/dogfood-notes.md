@@ -35,13 +35,13 @@ claude PID 76128 之后仍存活但完全无活动 — 不会重试、不会写 
 **Severity:** high — 这是 chorus 单点故障，**任何一次 RPC 抖动都会永久杀掉 role**。比 5h quota cliff 严重得多（quota 当时只 < 30%）。
 **Surface area in chorus:** `/loop` skill / Mode B 设计 / ScheduleWakeup 调用点（无包裹）/ 整个 keep-alive 机制；F7 lineage 第 4 个外部边界失败案例。
 
-## 2026-05-26 07:06 — pmset 切换与网络抖动相关（推测）
+## 2026-05-26 07:06 — executor 死因：**纯 transient 网络/API 故障**（lid 当时仍开）
 
-**Triggered by:** caffeinate PID 92587 ClientDied @ 07:06:57 + coreaudiod 释放一批 PreventUserIdleSystemSleep 断言 @ 07:07:25。
-**Observed:** executor 的 socket 在 07:06:27 死亡，hung 了 3:27 min。死亡时间与 macOS power-management 状态切换在同一分钟级窗口。
-**Expected:** chorus 不应受 macOS 闲置/省电状态切换影响。OR 至少要 detect 网络不可达 → BLOCKED-network。
-**Severity:** medium — 强相关但非确证；需要复现实验（lid 锁屏不合盖跑一晚）才能确认 dark-wake 是 reviewer 13:55 死亡的真因。
-**Surface area in chorus:** OS 层假设；chorus 当前不知道宿主 power state；ScheduleWakeup 失败 + 长 hung 是症状。
+**Triggered by:** executor 调 ScheduleWakeup 的瞬间。**用户确认 07:05 时 lid 仍开**，08:28 才合盖。故 lid-close / dark-wake 假设对 executor 07:05 死亡**不适用**。
+**Observed:** socket hung 3:27 min 后回 "socket connection closed unexpectedly"。pmset 07:06-07:07 的事件（caffeinate ClientDied / coreaudiod 释放 sleep-prevention 断言）只是常规闲置-prevention 调整，**不会导致网络中断**，时间上的重合是巧合。
+**Expected:** chorus 不能假设 ScheduleWakeup RPC 总成功 — 即使 lid 开 + 系统正常运行也会发生 transient 失败。
+**Severity:** **upgrade to high** — 比合盖场景更糟：意味着即使正常运行 chorus role 也随时可能 RPC 抖一下就死。reviewer 13:55 才是 dark-wake 场景（合盖后 5h27m）。两件事**根因相同（无 retry），触发场景不同**。
+**Surface area in chorus:** 与 entry "ScheduleWakeup socket failure → role 永久死，无 retry" 同；这条只是把"为什么 07:05 偏偏死"从 pmset 假设修正为"任何时刻都可能发生的 transient 失败"。
 
 ## 2026-05-26 08:28+ — `chorus-status` "alive" verdict 不可信（僵尸 claude PID）
 
